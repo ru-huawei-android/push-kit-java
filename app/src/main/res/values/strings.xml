@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Push Kit (Java)</string>
+    <string name="subscribeToTopic">Subscribe to topic</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="unsubscribe">Unsubscribe</string>
+    <string name="activity_deeplink">Activity deeplink</string>
+    <string name="return_to_home_screen">Return to Home screen</string>
+    <string name="activity_main">Activity main</string>
+    <string name="successful_unsubscribe">Successful unsubscribe for topic: %1$s</string>
+    <string name="successful_subscribe">Successful subscribe from topic: %1$s</string>
+    <string name="deregistering_token">Deregistering Token</string>
+    <string name="enable_push_receiving">Enable push receiving</string>
+</resources>
