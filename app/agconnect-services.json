@@ -1,0 +1,30 @@
+{
+	"agcgw":{
+		"backurl":"connect-drru.dbankcloud.cn",
+		"url":"connect-drru.hispace.hicloud.com"
+	},
+	"client":{
+		"cp_id":"1340007000004722192",
+		"product_id":"736430079244626846",
+		"client_id":"446923297972552768",
+		"client_secret":"842A2AD0084D211BF8FF0F0B1B054640D0E8507986D3577933EA0AAD2481BF6F",
+		"app_id":"102861129",
+		"package_name":"com.sample.huawei.pushkitjava",
+		"api_key":"CgB6e3x9dhNGzRQO8kbNRhVr4RiS2rRZdQdyKHqwm+HdOxQCN/7bPSjfqUCGs0OamN372CqMkUjaZA3/p2LJ1qHG"
+	},
+	"service":{
+		"analytics":{
+			"collector_url":"datacollector-drru.dt.hicloud.com,datacollector-drru.dt.dbankcloud.cn",
+			"resource_id":"p1",
+			"channel_id":""
+		},
+		"cloudstorage":{
+			"storage_url":"https://agc-storage-drru.platform.dbankcloud.cn"
+		},
+		"ml":{
+			"mlservice_url":"ml-api-drru.ai.dbankcloud.com,ml-api-drru.ai.dbankcloud.cn"
+		}
+	},
+	"region":"RU",
+	"configuration_version":"1.0"
+}
