@@ -1,11 +1,10 @@
-package com.sample.huawei.pushkitjava;
+package com.sample.huawei.pushkit;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
-import android.content.IntentFilter;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;

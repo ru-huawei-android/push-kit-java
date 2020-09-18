@@ -4,13 +4,13 @@
 		"url":"connect-drru.hispace.hicloud.com"
 	},
 	"client":{
-		"cp_id":"1340007000004722192",
-		"product_id":"736430079244626846",
-		"client_id":"446923297972552768",
-		"client_secret":"842A2AD0084D211BF8FF0F0B1B054640D0E8507986D3577933EA0AAD2481BF6F",
-		"app_id":"102861129",
-		"package_name":"com.sample.huawei.pushkitjava",
-		"api_key":"CgB6e3x9dhNGzRQO8kbNRhVr4RiS2rRZdQdyKHqwm+HdOxQCN/7bPSjfqUCGs0OamN372CqMkUjaZA3/p2LJ1qHG"
+		"cp_id":"1340007000006332998",
+		"product_id":"736430079244636548",
+		"client_id":"452723686747669632",
+		"client_secret":"37017797B7E7FCB860EFD87E88D88639598C10215526947E8098A07636838EB1",
+		"app_id":"102922977",
+		"package_name":"com.sample.huawei.pushkit",
+		"api_key":"CgB6e3x9n4OP0BrZO/rk6xVNRc/RRUa0i7JaPIAu8FeFH8/6QPbscKxjjlCmOxBI7PsRczBPg1gUiChgVe9CLVBe"
 	},
 	"service":{
 		"analytics":{

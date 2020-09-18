@@ -1,4 +1,4 @@
-package com.sample.huawei.pushkitjava;
+package com.sample.huawei.pushkit;
 
 import android.content.Intent;
 import android.util.Log;

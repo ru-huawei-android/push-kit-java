@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.0"
 
     defaultConfig {
-        applicationId "com.sample.huawei.pushkitjava"
+        applicationId "com.sample.huawei.pushkit"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
@@ -16,10 +16,10 @@ android {
 
     signingConfigs {
         release {
-            storeFile file("GitHubImprovments.jks")
-            storePassword "GitHubImprovments"
-            keyAlias "GitHubImprovments"
-            keyPassword "GitHubImprovments"
+            storeFile file("HuaweiSampleKey.jks")
+            storePassword "HuaweiSampleKey"
+            keyAlias "HuaweiSampleKey"
+            keyPassword "HuaweiSampleKey"
             v1SigningEnabled true
             v2SigningEnabled true
         }
