@@ -189,13 +189,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i(TAG, "onSuccessListener() called");
     }
 
-    private void autoInitObtainingToken() {
-        Receiver receiver = new Receiver();
-        IntentFilter filter = new IntentFilter();
-        filter.addAction("GET_HMS_TOKEN_ACTION");
-        MainActivity.this.registerReceiver(receiver, filter);
-    }
-
     private void showMessage(String message) {
         Snackbar.make(findViewById(R.id.parent), message, Snackbar.LENGTH_SHORT).show();
     }
